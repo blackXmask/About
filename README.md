@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 **Welcome to the Official GitHub of BlackMask-ah** 🔥  
+# 👨‍💻 **Welcome to the Official GitHub of BlackXMask** 🔥  
 ### *Cybersecurity Enthusiast | Software Developer | Ethical Hacker*
 
 </div>
@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 **About Me**
-Hey there! I'm **Abdullah (BlackMask-ah)** — passionate about **Cybersecurity 🔒**, **Software Development 💻**, and **Ethical Hacking 🕵️‍♂️**.  
+Hey there! I'm **Abdullah (BlackXMask)** — passionate about **Cybersecurity 🔒**, **Software Development 💻**, and **Ethical Hacking 🕵️‍♂️**.  
 I love building **secure, efficient, and cutting-edge tools** that make tech safer and smarter.  
 
 💡 I specialize in:
